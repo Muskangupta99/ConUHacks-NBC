@@ -2,6 +2,9 @@
 
 This script is designed to read data from multiple JSON files, process and annotate the data, and then send it to a Power BI API endpoint for visualization and analysis. The script simulates sending real-time data to the Power BI endpoint.
 
+![screen-capture-conuhack-NBC-ezgif com-video-to-gif-converter (1)](https://github.com/Muskangupta99/ConUHacks-NBC/assets/60093511/2e9ec4f8-2f43-4771-b21d-6fe9a0eaad7e)
+
+
 ## Usage
 
 1. **Requirements:**
